@@ -19,7 +19,7 @@ Bienvenido/a a mi perfil de GitHub. Soy un apasionado/a de la computacion. Siemp
 ## Lenguajes y Herramientas
 
 !([JAVA](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/121px-Java_programming_language_logo.svg.png))
-![Lenguaje 2](Enlace a la imagen)
+![java]([Enlace a la imagen](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/121px-Java_programming_language_logo.svg.png))
 ![Herramienta 1](Enlace a la imagen)
 ![Herramienta 2](Enlace a la imagen)
 
