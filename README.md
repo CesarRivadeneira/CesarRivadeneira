@@ -18,17 +18,6 @@ Bienvenido/a a mi perfil de GitHub. Soy un apasionado/a de la computacion. Siemp
 
 ## Lenguajes y Herramientas
 
-!([JAVA](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/121px-Java_programming_language_logo.svg.png))
-![java]([Enlace a la imagen](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/121px-Java_programming_language_logo.svg.png))
-![Herramienta 1](Enlace a la imagen)
-![Herramienta 2](Enlace a la imagen)
-
-## Estadísticas de GitHub
-
-![Estadísticas](Enlace a tus estadísticas en GitHub)
-
-## Contacto
-
-¡No dudes en contactarme si tienes alguna pregunta o simplemente quieres charlar sobre [Tus Temas Favoritos]! Puedes encontrarme en mis redes sociales o enviarme un correo electrónico a [Tu Correo Electrónico].
+Java | Springboot | JPA | Hibernate | MySQL | HTML | CSS | JS | Git | Github
 
 ¡Gracias por visitar mi perfil!
