@@ -15,7 +15,11 @@ Bienvenido/a a mi perfil de GitHub. Soy un apasionado/a de la computacion. Siemp
 
 - ([ClimateAware](https://github.com/CesarRivadeneira/ClimateAware)) - Proyecto final del curso FullStack en EGG Cooperation
 - ([API-Rick&Morty](https://github.com/CesarRivadeneira/API-Rick-Morty)) - Ejercicio consumiendo una API publica
+- ([API-Localidades Argentinas](https://github.com/CesarRivadeneira/API-Localidades-Argentinas)) - Ejercicio consumiendo una API publica
+- ([Amajhur Band](https://github.com/CesarRivadeneira/AmajhurBand)) - Proyecto Web Desing PAra una Banda musical
+- ([Gym](https://github.com/CesarRivadeneira/Gym)) - Modificacion de Plantilla Web para una nueva necesidad de Gimnasio
 
+- 
 ## Lenguajes y Herramientas
 
 Java | Springboot | JPA | Hibernate | MySQL | HTML | CSS | JS | Git | Github
