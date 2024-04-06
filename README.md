@@ -5,9 +5,10 @@ Bienvenido/a a mi perfil de GitHub. Soy un apasionado/a de la computacion. Siemp
 
 ## Sobre mí
 
+-📫 VISITA MI PORTFOLIO: ([Portfolio-CesarRivadeneira](https://portfolio-lemon-five-65.vercel.app/))
 - 🔭 Actualmente conclui mis cursos de FullStack en EGG Cooperation y Java Backend en Oracle con Alura Latam.
 - 🌱 Estoy Estudiando API's con TodoCode Academy.
-- 📫 Cómo contactarme: rivadeneiracesar8@gmail.com 
+- 📫 Cómo contactarme: rivadeneiracesar8@gmail.com
 - 😄 Pronombres: Fonso.
 - ⚡ Dato curioso: Soy Tecnico Electromecanico, eh desarrollado mi logica en un rubro totalmente distinto a la programacion trabajando como electrico principalmente, desarrollando circuitos de electricidad industrial, logica de rele, reparaciones y servicio tecnico en mis anteriores trabajos.
 
