@@ -19,7 +19,7 @@ Bienvenido/a a mi perfil de GitHub. Soy un apasionado/a de la computacion. Siemp
 - ([Amajhur Band](https://github.com/CesarRivadeneira/AmajhurBand)) - Proyecto Web Desing PAra una Banda musical
 - ([Gym](https://github.com/CesarRivadeneira/Gym)) - Modificacion de Plantilla Web para una nueva necesidad de Gimnasio
 
-- 
+
 ## Lenguajes y Herramientas
 
 Java | Springboot | JPA | Hibernate | MySQL | HTML | CSS | JS | Git | Github
