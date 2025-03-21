@@ -14,6 +14,7 @@ Bienvenido/a a mi perfil de GitHub. Soy un apasionado/a de la computacion. Siemp
 
 ## Proyectos Destacados
 
+- ([Veterinaria](https://github.com/CesarRivadeneira/Veterinaria-Java-Swing)) - Proyecto de Administracion Veterinaria actualmente en curso
 - ([ClimateAware](https://github.com/CesarRivadeneira/ClimateAware)) - Proyecto final del curso FullStack en EGG Cooperation
 - ([API-Rick&Morty](https://github.com/CesarRivadeneira/API-Rick-Morty)) - Ejercicio consumiendo una API publica
 - ([API-Localidades Argentinas](https://github.com/CesarRivadeneira/API-Localidades-Argentinas)) - Ejercicio consumiendo una API publica
